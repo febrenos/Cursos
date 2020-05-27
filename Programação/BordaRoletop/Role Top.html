@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<!-- saved from url=(0069)file:///F:/ESTUDOS%20SENAI/Programa%C3%A7%C3%A3o/RoleTop/reserve.html -->
+<html lang="pt-br"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>Role Top</title>
+    <link href="./Role Top_files/css" rel="stylesheet">
+    <link href="./Role Top_files/style.css" rel="stylesheet" type="text/css">
+    <link href="./Role Top_files/reserve.css" rel="stylesheet" type="text/css">
+    
+
+    <!-- Importar o Font Awesome para o projeto -->
+    <script src="./Role Top_files/349a64cb04.js.download"></script><link rel="stylesheet" href="./Role Top_files/free.min.css" media="all"><link rel="stylesheet" href="./Role Top_files/free-v4-font-face.min.css" media="all"><link rel="stylesheet" href="./Role Top_files/free-v4-shims.min.css" media="all">
+</head>
+
+<body class="flex-container">
+    <header>
+        <nav>
+                <div class="section-container">
+                    <ul>
+                        <li id="bt-mobile-menu">
+                            <!-- HTML para colocar os ícones do FA -->
+                            <a href="javascript:void(0);" class="icon" onclick="toggleMobileMenu()">
+                                <i class="fa fa-bars" aria-hidden="true"></i>
+                            </a>
+                        </li>
+                        <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="file:///F:/ESTUDOS%20SENAI/Programa%C3%A7%C3%A3o/RoleTop/index.html" class="active">Home</a></li>
+                        <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="file:///F:/ESTUDOS%20SENAI/Programa%C3%A7%C3%A3o/RoleTop/index.html#hamburgueres">Eventos</a></li>
+                        <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="file:///F:/ESTUDOS%20SENAI/Programa%C3%A7%C3%A3o/RoleTop/login.html#login">Login</a></li>
+                        <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="file:///F:/ESTUDOS%20SENAI/Programa%C3%A7%C3%A3o/RoleTop/index.html#historia">Sobre</a></li>
+                        <li class="bt-common-menu"><a onclick="toggleMobileMenu()" href="file:///F:/ESTUDOS%20SENAI/Programa%C3%A7%C3%A3o/RoleTop/index.html#local">Localização</a></li>
+                        <li><a id="bt-peca_ja" href="file:///F:/ESTUDOS%20SENAI/Programa%C3%A7%C3%A3o/RoleTop/reserve.html">Reservar</a></li>
+                    </ul>
+                </div>
+                <div class="c">
+                    <br>
+                </div>
+            </nav>
+        <hgroup>
+            <h1>Role Top</h1>
+        </hgroup>
+        <section id="logo-area">
+            <img src="./Role Top_files/logo.png" alt="Logotipo TOP" title="logo">
+            <hgroup>
+                <h1>Rolê Top</h1>
+                <h2>O Rolê mais Top de todos os tempos</h2>
+            </hgroup>
+        </section>
+    </header>
+    <main>
+        <div id="Forma">
+            <br>
+                <h2>Reseve seu local</h2>
+                <form method="GET" action="file:///F:/ESTUDOS%20SENAI/Programa%C3%A7%C3%A3o/RoleTop/index.html">
+                <div>
+                    <label for="nome">Nome Completo</label>
+                    <br>
+                    <input id="nome" type="text" maxlength="50" minlength="3" name="nome">
+                </div>
+
+                <div>
+                    <label for="endereco">Endereço</label>
+                    <br>
+                    <input id="endereco" type="text" maxlength="60" minlength="3" name="endereco">
+                </div>
+
+                <div>
+                    <label for="telefone">Telefone para contato</label>
+                    <br>
+                    <input id="telefone" type="text" maxlength="13" minlength="8" name="telefone">
+                </div>
+
+                <div>
+                    <label for="email">E-mail</label>
+                    <br>
+                    <input id="email" type="email" maxlength="50" minlength="3" name="email">
+                </div>
+
+                <div class="double-field">
+                    <div>
+                        <label for="reserve">layout</label>
+                        <select id="reserve" required="">
+                            <option value="" disabled="" selected="">Selecione</option>
+                            <option value="furioso">Elegante</option>
+                            <option value="combo">Complexo</option>
+                            <option value="simples">Simples</option>
+                            <option value="rustico">Rústico</option>
+                        </select>
+                    </div>
+                    
+                        <label for="dia">Selecione o dia e o evento:</label>
+                        <input id="dia" type="date">
+                            <div class="Confirmar">
+                                <p>*Você receberá um e-mail confirmando, se o dia está disponível.</p>
+                            </div>
+                        <input type="submit" value="reservar">
+                    
+                </div></form>
+        </div>
+    </main>
+    
+    <footer>
+        <div class="section-container">
+            <address>
+                Avenida de Limeira, 539 - Campos Elíseos - SP
+                <br>
+                roletop@email.com
+                <br>
+                11 1234 6789
+            </address>
+        </div>
+    </footer>
+
+    <script>
+        function toggleMobileMenu() {
+            var ul = document.querySelector("nav ul");
+            var commonButtons = document.querySelectorAll("nav .bt-common-menu");
+            var icon = document.querySelector(".icon > i");
+
+            ul.classList.toggle("mobile-mode");
+
+            if (icon.classList.contains("fa-bars")) {
+                icon.classList.remove("fa-bars");
+                icon.classList.remove("fa");
+
+                icon.classList.add("fas");
+                icon.classList.add("fa-skull");
+            } else {
+                icon.classList.remove("fas");
+                icon.classList.remove("fa-skull");
+
+                icon.classList.add("fa");
+                icon.classList.add("fa-bars");
+            }
+
+            for (var button of commonButtons) {
+                button.classList.toggle("active");
+            }
+
+        }
+        
+    </script>
+
+
+</body></html>

@@ -1,0 +1,11 @@
+C:\Users\mateu\Documents\Exercicios C#\ParOUímpar\bin\Debug\netcoreapp2.1\ParOUímpar.deps.json
+C:\Users\mateu\Documents\Exercicios C#\ParOUímpar\bin\Debug\netcoreapp2.1\ParOUímpar.runtimeconfig.json
+C:\Users\mateu\Documents\Exercicios C#\ParOUímpar\bin\Debug\netcoreapp2.1\ParOUímpar.runtimeconfig.dev.json
+C:\Users\mateu\Documents\Exercicios C#\ParOUímpar\bin\Debug\netcoreapp2.1\ParOUímpar.dll
+C:\Users\mateu\Documents\Exercicios C#\ParOUímpar\bin\Debug\netcoreapp2.1\ParOUímpar.pdb
+C:\Users\mateu\Documents\Exercicios C#\ParOUímpar\obj\Debug\netcoreapp2.1\ParOUímpar.csprojAssemblyReference.cache
+C:\Users\mateu\Documents\Exercicios C#\ParOUímpar\obj\Debug\netcoreapp2.1\ParOUímpar.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Exercicios C#\ParOUímpar\obj\Debug\netcoreapp2.1\ParOUímpar.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\Exercicios C#\ParOUímpar\obj\Debug\netcoreapp2.1\ParOUímpar.AssemblyInfo.cs
+C:\Users\mateu\Documents\Exercicios C#\ParOUímpar\obj\Debug\netcoreapp2.1\ParOUímpar.dll
+C:\Users\mateu\Documents\Exercicios C#\ParOUímpar\obj\Debug\netcoreapp2.1\ParOUímpar.pdb

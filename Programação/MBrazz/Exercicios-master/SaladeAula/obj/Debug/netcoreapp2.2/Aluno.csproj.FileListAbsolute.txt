@@ -1,0 +1,15 @@
+C:\Users\mateu\Documents\Exercicios C#\Aluno\obj\Debug\netcoreapp2.2\Aluno.csprojAssemblyReference.cache
+C:\Users\mateu\Documents\Exercicios C#\Aluno\obj\Debug\netcoreapp2.2\Aluno.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Exercicios C#\Aluno\obj\Debug\netcoreapp2.2\Aluno.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\Exercicios C#\Aluno\obj\Debug\netcoreapp2.2\Aluno.AssemblyInfo.cs
+C:\Users\mateu\Documents\Exercicios C#\SaladeAula\bin\Debug\netcoreapp2.2\Aluno.deps.json
+C:\Users\mateu\Documents\Exercicios C#\SaladeAula\bin\Debug\netcoreapp2.2\Aluno.runtimeconfig.json
+C:\Users\mateu\Documents\Exercicios C#\SaladeAula\bin\Debug\netcoreapp2.2\Aluno.runtimeconfig.dev.json
+C:\Users\mateu\Documents\Exercicios C#\SaladeAula\bin\Debug\netcoreapp2.2\Aluno.dll
+C:\Users\mateu\Documents\Exercicios C#\SaladeAula\bin\Debug\netcoreapp2.2\Aluno.pdb
+C:\Users\mateu\Documents\Exercicios C#\SaladeAula\obj\Debug\netcoreapp2.2\Aluno.csprojAssemblyReference.cache
+C:\Users\mateu\Documents\Exercicios C#\SaladeAula\obj\Debug\netcoreapp2.2\Aluno.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Exercicios C#\SaladeAula\obj\Debug\netcoreapp2.2\Aluno.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\Exercicios C#\SaladeAula\obj\Debug\netcoreapp2.2\Aluno.AssemblyInfo.cs
+C:\Users\mateu\Documents\Exercicios C#\SaladeAula\obj\Debug\netcoreapp2.2\Aluno.dll
+C:\Users\mateu\Documents\Exercicios C#\SaladeAula\obj\Debug\netcoreapp2.2\Aluno.pdb

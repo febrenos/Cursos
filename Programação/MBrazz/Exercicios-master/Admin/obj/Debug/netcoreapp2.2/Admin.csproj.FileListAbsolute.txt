@@ -1,0 +1,11 @@
+C:\Users\mateu\Documents\Exercicios C#\Admin\obj\Debug\netcoreapp2.2\Admin.csprojAssemblyReference.cache
+C:\Users\mateu\Documents\Exercicios C#\Admin\obj\Debug\netcoreapp2.2\Admin.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Exercicios C#\Admin\obj\Debug\netcoreapp2.2\Admin.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\Exercicios C#\Admin\obj\Debug\netcoreapp2.2\Admin.AssemblyInfo.cs
+C:\Users\mateu\Documents\Exercicios C#\Admin\bin\Debug\netcoreapp2.2\Admin.deps.json
+C:\Users\mateu\Documents\Exercicios C#\Admin\bin\Debug\netcoreapp2.2\Admin.runtimeconfig.json
+C:\Users\mateu\Documents\Exercicios C#\Admin\bin\Debug\netcoreapp2.2\Admin.runtimeconfig.dev.json
+C:\Users\mateu\Documents\Exercicios C#\Admin\bin\Debug\netcoreapp2.2\Admin.dll
+C:\Users\mateu\Documents\Exercicios C#\Admin\bin\Debug\netcoreapp2.2\Admin.pdb
+C:\Users\mateu\Documents\Exercicios C#\Admin\obj\Debug\netcoreapp2.2\Admin.dll
+C:\Users\mateu\Documents\Exercicios C#\Admin\obj\Debug\netcoreapp2.2\Admin.pdb

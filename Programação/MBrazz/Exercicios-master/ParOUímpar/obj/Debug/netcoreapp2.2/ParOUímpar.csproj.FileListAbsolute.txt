@@ -1,0 +1,22 @@
+C:\Users\51663853819\Documents\Exercícios\parouímpar\bin\Debug\netcoreapp2.2\ParOUímpar.deps.json
+C:\Users\51663853819\Documents\Exercícios\parouímpar\bin\Debug\netcoreapp2.2\ParOUímpar.runtimeconfig.json
+C:\Users\51663853819\Documents\Exercícios\parouímpar\bin\Debug\netcoreapp2.2\ParOUímpar.runtimeconfig.dev.json
+C:\Users\51663853819\Documents\Exercícios\parouímpar\bin\Debug\netcoreapp2.2\ParOUímpar.dll
+C:\Users\51663853819\Documents\Exercícios\parouímpar\bin\Debug\netcoreapp2.2\ParOUímpar.pdb
+C:\Users\51663853819\Documents\Exercícios\parouímpar\obj\Debug\netcoreapp2.2\ParOUímpar.csprojAssemblyReference.cache
+C:\Users\51663853819\Documents\Exercícios\parouímpar\obj\Debug\netcoreapp2.2\ParOUímpar.csproj.CoreCompileInputs.cache
+C:\Users\51663853819\Documents\Exercícios\parouímpar\obj\Debug\netcoreapp2.2\ParOUímpar.AssemblyInfoInputs.cache
+C:\Users\51663853819\Documents\Exercícios\parouímpar\obj\Debug\netcoreapp2.2\ParOUímpar.AssemblyInfo.cs
+C:\Users\51663853819\Documents\Exercícios\parouímpar\obj\Debug\netcoreapp2.2\ParOUímpar.dll
+C:\Users\51663853819\Documents\Exercícios\parouímpar\obj\Debug\netcoreapp2.2\ParOUímpar.pdb
+C:\Users\mateu\Documents\Exercicios C#\ParOUímpar\bin\Debug\netcoreapp2.2\ParOUímpar.deps.json
+C:\Users\mateu\Documents\Exercicios C#\ParOUímpar\bin\Debug\netcoreapp2.2\ParOUímpar.runtimeconfig.json
+C:\Users\mateu\Documents\Exercicios C#\ParOUímpar\bin\Debug\netcoreapp2.2\ParOUímpar.runtimeconfig.dev.json
+C:\Users\mateu\Documents\Exercicios C#\ParOUímpar\bin\Debug\netcoreapp2.2\ParOUímpar.dll
+C:\Users\mateu\Documents\Exercicios C#\ParOUímpar\bin\Debug\netcoreapp2.2\ParOUímpar.pdb
+C:\Users\mateu\Documents\Exercicios C#\ParOUímpar\obj\Debug\netcoreapp2.2\ParOUímpar.csprojAssemblyReference.cache
+C:\Users\mateu\Documents\Exercicios C#\ParOUímpar\obj\Debug\netcoreapp2.2\ParOUímpar.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\Exercicios C#\ParOUímpar\obj\Debug\netcoreapp2.2\ParOUímpar.AssemblyInfo.cs
+C:\Users\mateu\Documents\Exercicios C#\ParOUímpar\obj\Debug\netcoreapp2.2\ParOUímpar.dll
+C:\Users\mateu\Documents\Exercicios C#\ParOUímpar\obj\Debug\netcoreapp2.2\ParOUímpar.pdb
+C:\Users\mateu\Documents\Exercicios C#\ParOUímpar\obj\Debug\netcoreapp2.2\ParOUímpar.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+C:\Users\mateu\Documents\Exercicios C#\Temperatura\bin\Debug\netcoreapp2.2\Temperatura.deps.json
+C:\Users\mateu\Documents\Exercicios C#\Temperatura\bin\Debug\netcoreapp2.2\Temperatura.runtimeconfig.json
+C:\Users\mateu\Documents\Exercicios C#\Temperatura\bin\Debug\netcoreapp2.2\Temperatura.runtimeconfig.dev.json
+C:\Users\mateu\Documents\Exercicios C#\Temperatura\bin\Debug\netcoreapp2.2\Temperatura.dll
+C:\Users\mateu\Documents\Exercicios C#\Temperatura\bin\Debug\netcoreapp2.2\Temperatura.pdb
+C:\Users\mateu\Documents\Exercicios C#\Temperatura\obj\Debug\netcoreapp2.2\Temperatura.csprojAssemblyReference.cache
+C:\Users\mateu\Documents\Exercicios C#\Temperatura\obj\Debug\netcoreapp2.2\Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Exercicios C#\Temperatura\obj\Debug\netcoreapp2.2\Temperatura.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\Exercicios C#\Temperatura\obj\Debug\netcoreapp2.2\Temperatura.AssemblyInfo.cs
+C:\Users\mateu\Documents\Exercicios C#\Temperatura\obj\Debug\netcoreapp2.2\Temperatura.dll
+C:\Users\mateu\Documents\Exercicios C#\Temperatura\obj\Debug\netcoreapp2.2\Temperatura.pdb

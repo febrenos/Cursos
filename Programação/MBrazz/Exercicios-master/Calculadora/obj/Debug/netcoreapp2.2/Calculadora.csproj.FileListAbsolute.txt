@@ -1,0 +1,22 @@
+C:\Users\51663853819\Documents\Exercícios\calculadora\bin\Debug\netcoreapp2.2\Calculadora.deps.json
+C:\Users\51663853819\Documents\Exercícios\calculadora\bin\Debug\netcoreapp2.2\Calculadora.runtimeconfig.json
+C:\Users\51663853819\Documents\Exercícios\calculadora\bin\Debug\netcoreapp2.2\Calculadora.runtimeconfig.dev.json
+C:\Users\51663853819\Documents\Exercícios\calculadora\bin\Debug\netcoreapp2.2\Calculadora.dll
+C:\Users\51663853819\Documents\Exercícios\calculadora\bin\Debug\netcoreapp2.2\Calculadora.pdb
+C:\Users\51663853819\Documents\Exercícios\calculadora\obj\Debug\netcoreapp2.2\Calculadora.csprojAssemblyReference.cache
+C:\Users\51663853819\Documents\Exercícios\calculadora\obj\Debug\netcoreapp2.2\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\51663853819\Documents\Exercícios\calculadora\obj\Debug\netcoreapp2.2\Calculadora.AssemblyInfoInputs.cache
+C:\Users\51663853819\Documents\Exercícios\calculadora\obj\Debug\netcoreapp2.2\Calculadora.AssemblyInfo.cs
+C:\Users\51663853819\Documents\Exercícios\calculadora\obj\Debug\netcoreapp2.2\Calculadora.dll
+C:\Users\51663853819\Documents\Exercícios\calculadora\obj\Debug\netcoreapp2.2\Calculadora.pdb
+C:\Users\mateu\Documents\Exercicios C#\Calculadora\bin\Debug\netcoreapp2.2\Calculadora.deps.json
+C:\Users\mateu\Documents\Exercicios C#\Calculadora\bin\Debug\netcoreapp2.2\Calculadora.runtimeconfig.json
+C:\Users\mateu\Documents\Exercicios C#\Calculadora\bin\Debug\netcoreapp2.2\Calculadora.runtimeconfig.dev.json
+C:\Users\mateu\Documents\Exercicios C#\Calculadora\bin\Debug\netcoreapp2.2\Calculadora.dll
+C:\Users\mateu\Documents\Exercicios C#\Calculadora\bin\Debug\netcoreapp2.2\Calculadora.pdb
+C:\Users\mateu\Documents\Exercicios C#\Calculadora\obj\Debug\netcoreapp2.2\Calculadora.csprojAssemblyReference.cache
+C:\Users\mateu\Documents\Exercicios C#\Calculadora\obj\Debug\netcoreapp2.2\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Exercicios C#\Calculadora\obj\Debug\netcoreapp2.2\Calculadora.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\Exercicios C#\Calculadora\obj\Debug\netcoreapp2.2\Calculadora.AssemblyInfo.cs
+C:\Users\mateu\Documents\Exercicios C#\Calculadora\obj\Debug\netcoreapp2.2\Calculadora.dll
+C:\Users\mateu\Documents\Exercicios C#\Calculadora\obj\Debug\netcoreapp2.2\Calculadora.pdb

@@ -1,0 +1,22 @@
+C:\Users\51663853819\Documents\Exercícios\CalculoArea\obj\Debug\netcoreapp2.2\CalculoArea.csprojAssemblyReference.cache
+C:\Users\51663853819\Documents\Exercícios\CalculoArea\obj\Debug\netcoreapp2.2\CalculoArea.csproj.CoreCompileInputs.cache
+C:\Users\51663853819\Documents\Exercícios\CalculoArea\obj\Debug\netcoreapp2.2\CalculoArea.AssemblyInfoInputs.cache
+C:\Users\51663853819\Documents\Exercícios\CalculoArea\obj\Debug\netcoreapp2.2\CalculoArea.AssemblyInfo.cs
+C:\Users\51663853819\Documents\Exercícios\CalculoArea\bin\Debug\netcoreapp2.2\CalculoArea.deps.json
+C:\Users\51663853819\Documents\Exercícios\CalculoArea\bin\Debug\netcoreapp2.2\CalculoArea.runtimeconfig.json
+C:\Users\51663853819\Documents\Exercícios\CalculoArea\bin\Debug\netcoreapp2.2\CalculoArea.runtimeconfig.dev.json
+C:\Users\51663853819\Documents\Exercícios\CalculoArea\bin\Debug\netcoreapp2.2\CalculoArea.dll
+C:\Users\51663853819\Documents\Exercícios\CalculoArea\bin\Debug\netcoreapp2.2\CalculoArea.pdb
+C:\Users\51663853819\Documents\Exercícios\CalculoArea\obj\Debug\netcoreapp2.2\CalculoArea.dll
+C:\Users\51663853819\Documents\Exercícios\CalculoArea\obj\Debug\netcoreapp2.2\CalculoArea.pdb
+C:\Users\mateu\Documents\Exercicios C#\CalculoArea\bin\Debug\netcoreapp2.2\CalculoArea.deps.json
+C:\Users\mateu\Documents\Exercicios C#\CalculoArea\bin\Debug\netcoreapp2.2\CalculoArea.runtimeconfig.json
+C:\Users\mateu\Documents\Exercicios C#\CalculoArea\bin\Debug\netcoreapp2.2\CalculoArea.runtimeconfig.dev.json
+C:\Users\mateu\Documents\Exercicios C#\CalculoArea\bin\Debug\netcoreapp2.2\CalculoArea.dll
+C:\Users\mateu\Documents\Exercicios C#\CalculoArea\bin\Debug\netcoreapp2.2\CalculoArea.pdb
+C:\Users\mateu\Documents\Exercicios C#\CalculoArea\obj\Debug\netcoreapp2.2\CalculoArea.csprojAssemblyReference.cache
+C:\Users\mateu\Documents\Exercicios C#\CalculoArea\obj\Debug\netcoreapp2.2\CalculoArea.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Exercicios C#\CalculoArea\obj\Debug\netcoreapp2.2\CalculoArea.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\Exercicios C#\CalculoArea\obj\Debug\netcoreapp2.2\CalculoArea.AssemblyInfo.cs
+C:\Users\mateu\Documents\Exercicios C#\CalculoArea\obj\Debug\netcoreapp2.2\CalculoArea.dll
+C:\Users\mateu\Documents\Exercicios C#\CalculoArea\obj\Debug\netcoreapp2.2\CalculoArea.pdb

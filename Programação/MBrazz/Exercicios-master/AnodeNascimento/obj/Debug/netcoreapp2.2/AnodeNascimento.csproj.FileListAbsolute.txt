@@ -1,0 +1,22 @@
+C:\Users\51663853819\Documents\Exercícios\AnodeNascimento\bin\Debug\netcoreapp2.2\AnodeNascimento.deps.json
+C:\Users\51663853819\Documents\Exercícios\AnodeNascimento\bin\Debug\netcoreapp2.2\AnodeNascimento.runtimeconfig.json
+C:\Users\51663853819\Documents\Exercícios\AnodeNascimento\bin\Debug\netcoreapp2.2\AnodeNascimento.runtimeconfig.dev.json
+C:\Users\51663853819\Documents\Exercícios\AnodeNascimento\bin\Debug\netcoreapp2.2\AnodeNascimento.dll
+C:\Users\51663853819\Documents\Exercícios\AnodeNascimento\bin\Debug\netcoreapp2.2\AnodeNascimento.pdb
+C:\Users\51663853819\Documents\Exercícios\AnodeNascimento\obj\Debug\netcoreapp2.2\AnodeNascimento.csprojAssemblyReference.cache
+C:\Users\51663853819\Documents\Exercícios\AnodeNascimento\obj\Debug\netcoreapp2.2\AnodeNascimento.csproj.CoreCompileInputs.cache
+C:\Users\51663853819\Documents\Exercícios\AnodeNascimento\obj\Debug\netcoreapp2.2\AnodeNascimento.AssemblyInfoInputs.cache
+C:\Users\51663853819\Documents\Exercícios\AnodeNascimento\obj\Debug\netcoreapp2.2\AnodeNascimento.AssemblyInfo.cs
+C:\Users\51663853819\Documents\Exercícios\AnodeNascimento\obj\Debug\netcoreapp2.2\AnodeNascimento.dll
+C:\Users\51663853819\Documents\Exercícios\AnodeNascimento\obj\Debug\netcoreapp2.2\AnodeNascimento.pdb
+C:\Users\mateu\Documents\Exercicios C#\AnodeNascimento\bin\Debug\netcoreapp2.2\AnodeNascimento.deps.json
+C:\Users\mateu\Documents\Exercicios C#\AnodeNascimento\bin\Debug\netcoreapp2.2\AnodeNascimento.runtimeconfig.json
+C:\Users\mateu\Documents\Exercicios C#\AnodeNascimento\bin\Debug\netcoreapp2.2\AnodeNascimento.runtimeconfig.dev.json
+C:\Users\mateu\Documents\Exercicios C#\AnodeNascimento\bin\Debug\netcoreapp2.2\AnodeNascimento.dll
+C:\Users\mateu\Documents\Exercicios C#\AnodeNascimento\bin\Debug\netcoreapp2.2\AnodeNascimento.pdb
+C:\Users\mateu\Documents\Exercicios C#\AnodeNascimento\obj\Debug\netcoreapp2.2\AnodeNascimento.csprojAssemblyReference.cache
+C:\Users\mateu\Documents\Exercicios C#\AnodeNascimento\obj\Debug\netcoreapp2.2\AnodeNascimento.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Exercicios C#\AnodeNascimento\obj\Debug\netcoreapp2.2\AnodeNascimento.AssemblyInfoInputs.cache
+C:\Users\mateu\Documents\Exercicios C#\AnodeNascimento\obj\Debug\netcoreapp2.2\AnodeNascimento.AssemblyInfo.cs
+C:\Users\mateu\Documents\Exercicios C#\AnodeNascimento\obj\Debug\netcoreapp2.2\AnodeNascimento.dll
+C:\Users\mateu\Documents\Exercicios C#\AnodeNascimento\obj\Debug\netcoreapp2.2\AnodeNascimento.pdb
